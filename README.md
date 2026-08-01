@@ -37,7 +37,7 @@ This repository contains my Machine Learning laboratory experiments implemented 
 
 ## 📌 Author
 
-**Your Name**
+**MADHUSRI K**
 
 ---
 ⭐ If you found this repository useful, don't forget to star it.
